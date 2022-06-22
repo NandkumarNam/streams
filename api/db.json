@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is great stream.",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.. post 2",
+      "id": 2
+    },
+    {
+      "title": "I created this this stream",
+      "description": "Please check UserID mention with this stream",
+      "userId": "111830278816640362254",
+      "id": 3
+    },
+    {
+      "title": "Streaming component Reuse.",
+      "description": "Watch me refactor update... some components.",
+      "id": 6
+    },
+    {
+      "title": "asdad",
+      "description": "adada",
+      "userId": "111830278816640362254",
+      "id": 7
+    },
+    {
+      "title": "adad",
+      "description": "adada",
+      "userId": "111830278816640362254",
+      "id": 8
+    },
+    {
+      "title": "My Stream",
+      "description": "aadada",
+      "userId": "111830278816640362254",
+      "id": 9
+    }
+  ]
+}
